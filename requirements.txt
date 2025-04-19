@@ -1,1 +1,3 @@
-﻿flask
+gradio>=3.50.2
+requests>=2.31.0
+python-dotenv>=1.0.0
