@@ -4,7 +4,7 @@ import os
 # Define the function for the Gradio interface
 # It doesn't need inputs for this simple case
 def hello_world():
-    return "Hello, World!"
+    return "Hello from Codespaces!"
 
 # Create the Gradio interface
 # inputs=None since our function doesn't use any
